@@ -1,0 +1,11 @@
+# Erlang Calculator
+
+1. Run erlang. Install it
+
+2. erl -noshell -s calculator start -s init stop
+
+3. erl to start the shell, 1> l(calculator). to load calculator
+
+4. calculator:start().
+
+5. Follow instructions
